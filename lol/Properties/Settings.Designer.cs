@@ -8,23 +8,79 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace lol.Properties
-{
-
-
-	[global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "10.0.0.0")]
-	internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase
-	{
-
-		private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
-
-		public static Settings Default
-		{
-			get
-			{
-				return defaultInstance;
-			}
-		}
-	}
+namespace lol.Properties {
+    
+    
+    [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "12.0.0.0")]
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string ApiKey {
+            get {
+                return ((string)(this["ApiKey"]));
+            }
+            set {
+                this["ApiKey"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string summoner1Id {
+            get {
+                return ((string)(this["summoner1Id"]));
+            }
+            set {
+                this["summoner1Id"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Summoner1Name {
+            get {
+                return ((string)(this["Summoner1Name"]));
+            }
+            set {
+                this["Summoner1Name"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Summoner2Id {
+            get {
+                return ((string)(this["Summoner2Id"]));
+            }
+            set {
+                this["Summoner2Id"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Summoner2Name {
+            get {
+                return ((string)(this["Summoner2Name"]));
+            }
+            set {
+                this["Summoner2Name"] = value;
+            }
+        }
+    }
 }

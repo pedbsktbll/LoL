@@ -1,0 +1,13 @@
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\obj\x86\Debug\lol.csprojResolveAssemblyReference.cache
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\obj\x86\Debug\lol.Form1.resources
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\obj\x86\Debug\lol.Properties.Resources.resources
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\obj\x86\Debug\lol.csproj.GenerateResource.Cache
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\bin\Debug\lol.exe.config
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\bin\Debug\lol.exe
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\bin\Debug\lol.pdb
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\bin\Debug\Newtonsoft.Json.dll
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\bin\Debug\RiotSharp.dll
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\bin\Debug\RiotSharp.pdb
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\bin\Debug\Newtonsoft.Json.xml
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\obj\x86\Debug\lol.exe
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol\obj\x86\Debug\lol.pdb

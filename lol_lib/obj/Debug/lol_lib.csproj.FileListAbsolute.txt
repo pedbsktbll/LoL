@@ -1,0 +1,5 @@
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol_lib\bin\Debug\lol_lib.dll
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol_lib\bin\Debug\lol_lib.pdb
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol_lib\obj\Debug\lol_lib.dll
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol_lib\obj\Debug\lol_lib.pdb
+D:\Win7_Data\Documents\Visual Studio 2010\Projects\lol\lol_lib\obj\Debug\lol_lib.csprojResolveAssemblyReference.cache
